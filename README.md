@@ -78,6 +78,25 @@ The project includes charts for content composition, release year trends, countr
 
 Analysis results are exported as CSV files in the outputs/ directory.
 
+
+### Executive Dashboard
+![Executive Dashboard](outputs/figures/netflix_executive_dashboard.png)
+
+### Content Type Distribution
+![Content Types](outputs/figures/content_type_counts.png)
+
+### Top Countries
+![Top Countries](outputs/figures/top_10_countries.png)
+
+### Release-Year Trends
+![Release Trends](outputs/figures/release_year_trend.png)
+
+### Top Genres
+![Top Genres](outputs/figures/top_10_genres.png)
+
+### Content Duration
+![Content Duration](outputs/figures/content_duration_distributions.png)
+
 ## 8. Business Recommendations
 
 - Improve the completeness of country and director metadata.
